@@ -1,0 +1,29 @@
+.sidebar {
+    width: 15%;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    /* background-color: grey; */
+    padding: 20px;
+    box-shadow: 2px 0 5px #0000001a;
+    background-color: #ddd0c8;
+    border: 1px solid white;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .bday-info {
+    margin-top: 20px;
+    /* display: flex; */
+    align-items: center;
+  }
+  
+  .bday-name {
+    font-weight: bold;
+    color: #555;
+  }
+  
+
+  

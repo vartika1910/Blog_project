@@ -1,0 +1,22 @@
+.showNtell-list{
+    display:flex;
+    float: right;
+    flex-wrap: wrap;
+    width: 82%;
+}
+
+
+
+.showNtell{
+    display:flex;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
